@@ -35,7 +35,7 @@ export const projects: PersonalProject[] = [
 			'/img/projects/wtx/WTX-checkout.png',
 		],
 		stack: ['Next.js', 'TypeScript', 'AWS', 'Bootstrap', 'Redux Toolkit'],
-		previewLink: 'https://buy.dev.worldtradex.com/',
+		previewLink: 'https://buy.worldtradex.com/',
 	},
 	{
 		name: 'Esor',
